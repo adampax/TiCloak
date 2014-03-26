@@ -1,7 +1,6 @@
 "Window":{
 	barColor: "#00ca8a",
-	//tintColor:"#000000",
-	//fullscreen:true,
+	tintColor:"#ffffff",
 	statusBarStyle: Titanium.UI.iPhone.StatusBar.LIGHT_CONTENT,
 	titleAttributes:{
 		color: "#ffffff",
@@ -12,7 +11,7 @@
 },
 
 "#mapView":{
-	minZoom: 1, //8,
+	minZoom: 1,
 	zoom: 14,
 	centerLatLng:[40.713715, -73.966652],
 	userLocation: true
