@@ -12,7 +12,7 @@ by following the steps listed here:
 
 [Simple Custom Maps in Appcelerator with titanium-mapbox and Mapbox.com][1]
 
-![Screenshot][2]
+![Animation][2]
 
 
 ## About
@@ -26,5 +26,5 @@ Copyright (c) 2014 Polanco Media, LLC
 
 
 [1]: http://adampaxton.com/simple-custom-maps-in-titanium-with-titanium-mapbox-and-mapboxcom.aspx
-[2]: https://raw.github.com/adampax/TiCloak/master/screenshots/ticloak-mapbox.png
+[2]: https://raw.github.com/adampax/TiCloak/master/screenshots/ticloak-mapbox.gif
 [3]: https://github.com/adampax/titanium-mapbox
