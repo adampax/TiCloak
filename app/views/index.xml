@@ -1,0 +1,7 @@
+<Alloy>
+	<NavigationWindow platform="ios">
+		<Window id="win" title="TiCloak">
+			<Module id="mapView" module="com.polancomedia.mapbox" map="yourUserName.234jk2l3j" />
+		</Window>
+	</NavigationWindow>
+</Alloy>
