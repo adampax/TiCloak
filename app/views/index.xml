@@ -4,4 +4,7 @@
 			<Module id="mapView" module="com.polancomedia.mapbox" map="yourUserName.234jk2l3j" />
 		</Window>
 	</NavigationWindow>
+	<Window id="index" platform="!ios">
+		<Label>Sorry, this demo is for iOS Only.</Label>
+	</Window>
 </Alloy>

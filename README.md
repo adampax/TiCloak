@@ -1,15 +1,30 @@
 
 # TiCloak Example Project
-## Demo App of Mapbox in Appcelerator Titanium
+### Demo App of Mapbox in Appcelerator Titanium
 
-### About
+This is a simple Titanium Alloy project for iOS that demonstrates how to open
+a [Mapbox.com](www.mapbox.com) hosted map in your Titanium Project using
+[titanium-mapbox][3].
 
-This is a simple project, written in Titanium Alloy, demonstrating the use of
-[titanium-mapbox](https://github.com/adampax/titanium-mapbox)
-in a Titanium Alloy project.
+###Note:
+In order to run the app, you will first need to create your map on Mapbox.com
+by following the steps listed here:
 
-Check out the following post for more info:
+[Simple Custom Maps in Appcelerator with titanium-mapbox and Mapbox.com][1]
 
-[Simple Custom Maps in Appcelerator with titanium-mapbox and Mapbox.com](http://adampaxton.com/simple-custom-maps-in-titanium-with-titanium-mapbox-and-mapboxcom.aspx)
+![Screenshot][2]
 
-![Screenshot](https://github.com/adampax/TiCloak/blob/master/screenshots/ticloak-mapbox.png)
+
+## About
+* Me: [Adam Paxton](http://adampaxton.com)
+* Twitter: [@adampax](http://twitter.com/adampax)
+* Work: [Polanco Media, LLC](http://polancomedia.com)
+
+## License
+MIT License
+Copyright (c) 2014 Polanco Media, LLC
+
+
+[1]: http://adampaxton.com/simple-custom-maps-in-titanium-with-titanium-mapbox-and-mapboxcom.aspx
+[2]: https://raw.github.com/adampax/TiCloak/master/screenshots/ticloak-mapbox.png
+[3]: https://github.com/adampax/titanium-mapbox

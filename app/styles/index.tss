@@ -1,4 +1,4 @@
-"Window":{
+"Window[platform=ios]":{
 	barColor: "#00ca8a",
 	tintColor:"#ffffff",
 	statusBarStyle: Titanium.UI.iPhone.StatusBar.LIGHT_CONTENT,
