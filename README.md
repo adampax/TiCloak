@@ -25,6 +25,6 @@ MIT License
 Copyright (c) 2014 Polanco Media, LLC
 
 
-[1]: http://adampaxton.com/simple-custom-maps-in-titanium-with-titanium-mapbox-and-mapboxcom.aspx
+[1]: http://adampaxton.com/simple-custom-maps-in-appcelerator-with-titanium-mapbox-and-mapboxcom.aspx
 [2]: https://raw.github.com/adampax/TiCloak/master/screenshots/ticloak-mapbox.gif
 [3]: https://github.com/adampax/titanium-mapbox
